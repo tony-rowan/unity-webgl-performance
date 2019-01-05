@@ -13,7 +13,22 @@ ModelImporter:
     2300000: roadCornerSmall
     3300000: roadCornerSmall
     4300000: roadCornerSmall
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 281d4bef8c786479ab00457671032b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey
+    second: {fileID: 2100000, guid: 6f92554865ba245da95989fdab4783cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: 65239460e3264495cb2b31326113288d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

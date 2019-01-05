@@ -13,7 +13,22 @@ ModelImporter:
     2300000: lightPostLarge
     3300000: lightPostLarge
     4300000: lightPostLarge
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 385b1e79952964420aba8a7239d3abbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey
+    second: {fileID: 2100000, guid: 385b1e79952964420aba8a7239d3abbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pylon
+    second: {fileID: 2100000, guid: 385b1e79952964420aba8a7239d3abbe, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

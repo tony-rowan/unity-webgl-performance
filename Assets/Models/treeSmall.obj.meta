@@ -12,7 +12,17 @@ ModelImporter:
     2300000: treeSmall
     3300000: treeSmall
     4300000: treeSmall
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bark
+    second: {fileID: 2100000, guid: 442a47203e9404d5a9072f4e7926d0b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 281d4bef8c786479ab00457671032b85, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

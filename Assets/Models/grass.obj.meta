@@ -11,7 +11,12 @@ ModelImporter:
     2300000: grass
     3300000: grass
     4300000: grass
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 281d4bef8c786479ab00457671032b85, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
