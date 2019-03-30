@@ -37,3 +37,7 @@ sysinfo.txt
 *.apk
 *.ipa
 *.unitypackage
+
+# Mac-OS
+.DS_Store
+
