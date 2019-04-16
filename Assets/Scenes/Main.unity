@@ -464,7 +464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc1d699f5b78d4de3a32cb94fe6d971c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _tilePrefab: {fileID: 6565838431232181496, guid: 8f678ab473fed480db0bfc3d984efcd5,
+  _tilePrefab: {fileID: 2733257682996775288, guid: d898a59ea96ae4b6d929f8f0181df1ea,
     type: 3}
   _initialSpawnCount: 3
   _tileWidth: -20
@@ -645,7 +645,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 45
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
