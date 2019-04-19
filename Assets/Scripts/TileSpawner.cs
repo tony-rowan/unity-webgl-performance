@@ -28,7 +28,7 @@ public class TileSpawner : MonoBehaviour
     private void GenerateTile()
     {
         Vector3 position = new Vector3(0, 0, _nextTilePosition);
-        GameObject tile = Instantiate( _tilePrefab, position, Quaternion.identity, transform);
+        GameObject tile = Instantiate(_tilePrefab, position, Quaternion.identity, transform);
         _tiles.AddLast(tile);
         _nextTilePosition += _tileWidth;
     }
