@@ -1,4 +1,4 @@
-﻿Shader "Custom/Simple Diffuse)" {
+﻿Shader "Custom/Simple Diffuse" {
 
     Properties {
         _Color ("Albedo", color) = (1,1,1,1)
