@@ -8,7 +8,7 @@
         Tags { "RenderType"="Opaque" }
  
         CGPROGRAM
-        #pragma surface surf Lambert fullforwardshadows
+        #pragma surface surf Lambert
  
         float4 _Color;
         
